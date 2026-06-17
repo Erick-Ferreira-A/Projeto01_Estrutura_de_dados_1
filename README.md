@@ -1,4 +1,4 @@
-# Projeto 1 - Sistema de Estoque e Vendas
+# Sistema de Estoque e Vendas
 
 Sistema de linha de comando em Python para controlar produtos, vendas,
 estoque e relatorios. O projeto usa os conceitos de Python basico,
@@ -99,9 +99,3 @@ divide o intervalo pela metade a cada passo. A complexidade e `O(log n)`.
 
 O arquivo de log e criado automaticamente durante a execucao. Ele nao precisa
 ser enviado para o GitHub.
-
-## GitHub Desktop
-
-Este projeto ja fica pronto para ser adicionado ao GitHub Desktop. Depois de
-abrir a pasta no GitHub Desktop, crie o repositorio remoto e publique na sua
-conta do GitHub.
