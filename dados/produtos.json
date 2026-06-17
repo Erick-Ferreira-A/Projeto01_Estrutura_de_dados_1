@@ -1,0 +1,37 @@
+[
+  {
+    "codigo": 101,
+    "nome": "Caderno Universitario",
+    "categoria": "Papelaria",
+    "preco": 18.9,
+    "quantidade": 25
+  },
+  {
+    "codigo": 205,
+    "nome": "Caneta Azul",
+    "categoria": "Papelaria",
+    "preco": 2.5,
+    "quantidade": 80
+  },
+  {
+    "codigo": 310,
+    "nome": "Mouse USB",
+    "categoria": "Informatica",
+    "preco": 39.9,
+    "quantidade": 12
+  },
+  {
+    "codigo": 415,
+    "nome": "Teclado Basico",
+    "categoria": "Informatica",
+    "preco": 59.9,
+    "quantidade": 7
+  },
+  {
+    "codigo": 520,
+    "nome": "Garrafa Termica",
+    "categoria": "Utilidades",
+    "preco": 44.5,
+    "quantidade": 4
+  }
+]
